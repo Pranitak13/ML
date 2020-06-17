@@ -1,1 +1,0 @@
-hweb: gunicorn app:app
